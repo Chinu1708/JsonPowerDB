@@ -37,5 +37,5 @@ It stores student data such as Roll No, Full Name, Class, Birth Date, Address, a
 ## Author
 
 Your Name  
-Contact info (optional)
+Chinmay Purohit
 
