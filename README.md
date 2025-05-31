@@ -35,7 +35,5 @@ It stores student data such as Roll No, Full Name, Class, Birth Date, Address, a
 - Implement update and delete student records.
 
 ## Author
-
-Your Name  
 Chinmay Purohit
 
